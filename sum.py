@@ -11,3 +11,9 @@ print('mul:',a*b)
 a=1
 b=4
 print('sub:',a-b)
+
+#div
+a=1
+b=4
+print('sub:',a/b)
+
