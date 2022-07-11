@@ -6,3 +6,8 @@ print('sum is :',a+b)
 a=1
 b=4
 print('mul:',a*b)
+
+#sub
+a=1
+b=4
+print('sub:',a-b)
